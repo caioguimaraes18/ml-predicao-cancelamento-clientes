@@ -74,18 +74,14 @@ git clone https://github.com/seu-usuario/projeto-cancelamento-clientes.git
 ```
 2. Instale as dependências:
 
-
 ```bash
 pip install -r requirements.txt
 ```
-
 3.Rode o notebook: 
-
 
 ```bash
 jupyter notebook
 ```
-
 ---
 
 ## 🧠 Inspiração
